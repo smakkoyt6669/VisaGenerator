@@ -1,0 +1,9 @@
+<html> 
+<body> 
+<h1> نيتروهات </h1> 
+<p> Nitro gaming 1m </p> 
+<button> Add to cart </button> 
+<br> <button> Buy </button> 
+<img:src=صورة للنيترو  > 
+</body> 
+</html>
